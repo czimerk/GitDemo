@@ -5,3 +5,7 @@ var p = 5;
 p++;
 
 console.log(p);
+
+var thisMustBe5 = 4;
+
+console.log(thisMustBe5);
