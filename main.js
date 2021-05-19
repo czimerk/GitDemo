@@ -10,4 +10,5 @@ var thisMustBe6 = 6;
 
 thisMustBe6++;
 
-console.log(thisMustBe5);
+console.log(thisMustBe6);
+var k = 0;
