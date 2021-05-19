@@ -8,6 +8,6 @@ console.log(p);
 
 var thisMustBe6 = 6;
 
-
+thisMustBe6++;
 
 console.log(thisMustBe5);
