@@ -6,7 +6,7 @@ p++;
 
 console.log(p);
 
-var thisMustBe6 = 5;
+var thisMustBe6 = 6;
 
 
 
