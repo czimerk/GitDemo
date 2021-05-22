@@ -11,3 +11,5 @@ var thisMustBe6 = 6;
 thisMustBe6++;
 
 console.log(thisMustBe5);
+
+//modify main.js from GitDemo2
