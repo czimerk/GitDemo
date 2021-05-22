@@ -12,3 +12,4 @@ thisMustBe6++;
 
 console.log(thisMustBe6);
 var k = 0;
+//modify main.js from GitDemo2
